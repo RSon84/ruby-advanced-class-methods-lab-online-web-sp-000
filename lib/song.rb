@@ -58,5 +58,3 @@ def self.create_from_filename(name)
   song
 end
 end
-
-
